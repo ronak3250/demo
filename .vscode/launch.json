@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "iphone14_dynamic_island-main",
+            "cwd": "iphone14_dynamic_island-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "iphone14_dynamic_island-main (profile mode)",
+            "cwd": "iphone14_dynamic_island-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "iphone14_dynamic_island-main (release mode)",
+            "cwd": "iphone14_dynamic_island-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
