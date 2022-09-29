@@ -84,7 +84,7 @@ class _ViewsScreensState extends State<ViewsScreens> {
                     ]),
               ),
               child: Padding(
-                padding: const EdgeInsets.only(top: 12),
+                padding: const EdgeInsets.only(top: 13),
                 child: PageView(
                   controller: controller,
                   onPageChanged: setActivePageIndex,
